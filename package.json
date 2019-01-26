@@ -1,0 +1,15 @@
+{
+  "name": "nw-jest-test",
+  "version": "1.0.0",
+  "description": "Testing NW.js and Jest",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "latest",
+    "nw": "sdk"
+  },
+  "license": "MIT"
+}
